@@ -5,6 +5,9 @@ calculates the fewest no. of operations needed to bring a  result
 
 
 def minOperations(n):
+    """
+    Calculates the fewest number of operations needed to achieve exactly
+    """
     if n <= 1:
         return n
     dp = [float('inf')] * (n + 1)
