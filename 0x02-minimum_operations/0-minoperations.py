@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 '''
 calculates the fewest no. of operations needed to bring a  result
 '''
