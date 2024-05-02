@@ -4,6 +4,7 @@
 Solution to sorting the coins acoording to value
 """
 
+
 def makeChange(coins, total):
     """
     The function to change the total
