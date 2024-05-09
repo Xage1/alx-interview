@@ -5,6 +5,9 @@ Perimeter grid task
 """
 
 def island_perimeter(grid):
+    """
+    Function to get the grid of a given array
+    """
     perimeter = 0
 
     directions = [(0,1), (0, -1), (1, 0 ), (-1, 0)]
